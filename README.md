@@ -42,3 +42,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=loopvanta&color=blue" alt="Profile Views" />
 </p>
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=loopvanta&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loopvanta&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopvanta&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
