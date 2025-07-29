@@ -31,6 +31,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=loopvanta&theme=tokyonight)
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loopvanta&layout=compact&theme=tokyonight)
 
 
