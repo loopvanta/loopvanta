@@ -27,10 +27,11 @@
 ### 📊 GitHub Stats:
 ### 📊 GitHub Stats:
 
+### 📊 GitHub Stats:
+
 ![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loopvanta&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=loopvanta&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=loopvanta&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loopvanta&layout=compact&theme=tokyonight)
 
